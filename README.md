@@ -6,3 +6,5 @@ web design using react js
 #### Four
 ##### Five
 ###### Six
+**bold - mnr**
+*Italic - mnr*
