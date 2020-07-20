@@ -6,5 +6,15 @@ web design using react js
 #### Four
 ##### Five
 ###### Six
+
 **bold - mnr**
+
 *Italic - mnr*
+
+* My fruits
+  * Banana
+  * Apples
+  
+ 1. My vegitables
+  1. Tomato
+  2. Potatoes
