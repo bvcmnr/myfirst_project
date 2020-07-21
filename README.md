@@ -9,7 +9,15 @@ web design using react js
 
 **bold - mnr**
 
+__Bold - using underscore - mnr__
+
+*Emphasis-mnr*
+
 *Italic - mnr*
+
+_Italic - using underscore - mnr_
+
+_My name is **mnr** working as __lecturer__ at bvc_
 
 * My fruits
   * Banana
