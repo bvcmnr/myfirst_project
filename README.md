@@ -9,6 +9,8 @@ web design using react js
 
 **bold - mnr**
 
+*Emphasis-mnr*
+
 *Italic - mnr*
 
 * My fruits
